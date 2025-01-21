@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Cookie Hub - Inf Bag Of Presents", "DarkTheme")
+local Window = Library.CreateLib("Cookie Hub - Demon Warriors | Xp Farm", "DarkTheme")
 
 
 local Main = Window:NewTab("Main")
